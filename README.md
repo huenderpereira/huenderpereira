@@ -1,5 +1,6 @@
-## Huender Gonçalves Pereira 😁
-
+<img width="100%" botton="50px" src="https://github.com/huenderpereira/huenderpereira/assets/171861153/e2a86b00-779c-40de-b214-04651cbeb7cc" alt="Header">
+<br>
+<br>
  <div>
    <a href="https://github.com/huenderpereira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huenderpereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
