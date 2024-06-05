@@ -1,4 +1,7 @@
-<img width="100%" botton="50px" src="https://github.com/huenderpereira/huenderpereira/assets/171861153/e2a86b00-779c-40de-b214-04651cbeb7cc" alt="Header">
+<div align="left">
+    <h2>🚀 Huender Gonçalves Pereira</h2>
+    <p>De pixel em pixel, construindo meu futuro como desenvolvedor Front-end.</p>
+</div>
 <br>
 <br>
  <div>
@@ -6,11 +9,11 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huenderpereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huenderpereira&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
+<br>
+
+## Estudando
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </div>
  
 <br>
